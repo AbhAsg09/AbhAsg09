@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Blockchain Development**
-- 🌱 I’m currently learning **Web3**
-- 👯 I’m looking to collaborate on **Smart Contracts**
-- 🤔 I’m looking for help with **Competitive Coding**
-- 💬 Talk to me about **Anime**
+- 🔭 I’m currently working on **Golang Development**
+- 👯 I’m looking to collaborate on **Web Applications**
+- 💬 Talk to me about **Cinema**
 - 📫 How to reach me: [abhishekasgola09@gmail.com](abhishekasgola09@gmail.com/)
 - 😄 Pronouns: **He/His**
 
